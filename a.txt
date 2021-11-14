@@ -1,2 +1,1 @@
-master
-推送
+开始使用GitHub仓库
